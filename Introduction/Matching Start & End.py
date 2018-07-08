@@ -1,4 +1,4 @@
-Regex_Pattern = r"^\d\w\w\w\w.$"	# Do not delete 'r'.
+Regex_Pattern = r"^\d\w\w\w\w\.$"	# Do not delete 'r'.
 
 import re
 
