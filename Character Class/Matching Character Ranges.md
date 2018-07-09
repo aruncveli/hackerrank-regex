@@ -13,4 +13,7 @@ Write a RegEx that will match a string satisfying the following conditions:
 
 #### Solution
 
-`Regex_Pattern = r'^[a-z][1-9][^a-z][^A-Z][A-Z]'`
+```python
+Regex_Pattern = r'^[a-z][1-9][^a-z][^A-Z][A-Z]'
+```
+

@@ -16,4 +16,7 @@ Your task is to write a regex that will match ***S*** with the following conditi
 
 #### Solution
 
-`Regex_Pattern = r'^\D[^aeiou][^bcDF]\S[^AEIOU][^.,]$'`
+```python
+Regex_Pattern = r'^\D[^aeiou][^bcDF]\S[^AEIOU][^.,]$'
+```
+

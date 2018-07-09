@@ -16,4 +16,7 @@ Your task is to write a regex that will match ***S*** with following conditions:
 
 #### Solution
 
-`Regex_Pattern = r'^[123][120][xs0][30Aa][xsu][.,]$'`
+```python
+Regex_Pattern = r'^[123][120][xs0][30Aa][xsu][.,]$'
+```
+

@@ -10,4 +10,6 @@ Here, ***x*** denotes whitespace characters, and ***X*** denotes non-white space
 
 #### Solution
 
-`Regex_Pattern = r"\S\S\s\S\S\s\S\S"`
+```python
+Regex_Pattern = r"\S\S\s\S\S\s\S\S"
+```

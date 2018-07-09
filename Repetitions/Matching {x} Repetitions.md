@@ -12,4 +12,7 @@ Your task is to write a regex that will match ***S*** using the following condit
 
 #### Solution
 
-`Regex_Pattern = r'^[a-zA-Z02468]{40}[13579\s]{5}$'`
+```python
+Regex_Pattern = r'^[a-zA-Z02468]{40}[13579\s]{5}$'
+```
+

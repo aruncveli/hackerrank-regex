@@ -10,4 +10,6 @@ Here ***x*** denotes a digit character, and ***X*** denotes a non-digit characte
 
 #### Solution
 
-`Regex_Pattern = r"\d\d\D\d\d\D\d\d\d\d"`
+```python
+Regex_Pattern = r"\d\d\D\d\d\D\d\d\d\d"
+```

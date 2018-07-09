@@ -8,4 +8,6 @@ Your task is to write a regular expression that matches only and exactly strings
 
 #### Solution
 
-`regex_pattern = r"^...\....\....\....$"`
+```python
+regex_pattern = r"^...\....\....\....$"
+```

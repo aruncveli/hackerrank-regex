@@ -10,4 +10,6 @@ Here ***x*** denotes any word character and ***X*** denotes any non-word charact
 
 #### Solution
 
-`Regex_Pattern = r"\w\w\w\W\w\w\w\w\w\w\w\w\w\w\W\w\w\w"`
+```python
+Regex_Pattern = r"\w\w\w\W\w\w\w\w\w\w\w\w\w\w\W\w\w\w"
+```

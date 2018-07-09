@@ -12,4 +12,6 @@ Here, ***x*** denotes a word character, and ***X*** denotes a digit.
 
 #### Solution
 
-`Regex_Pattern = r"^\d\w\w\w\w\.$"`
+```python
+Regex_Pattern = r"^\d\w\w\w\w.$"
+```

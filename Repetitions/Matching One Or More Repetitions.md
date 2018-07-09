@@ -11,4 +11,7 @@ You have a test string ***S***.
 
 #### Solution
 
-`Regex_Pattern = r'^\d+[A-Z]+[a-z]+$'`
+```python
+Regex_Pattern = r'^\d+[A-Z]+[a-z]+$'
+```
+

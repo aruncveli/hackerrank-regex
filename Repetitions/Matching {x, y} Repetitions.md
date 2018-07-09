@@ -12,4 +12,7 @@ Your task is to write a regex that will match ***S*** using the following condit
 
 #### Solution
 
-`Regex_Pattern = r'^\d{1,2}[a-zA-Z]{3,}\.{0,3}$'`
+```python
+Regex_Pattern = r'^\d{1,2}[a-zA-Z]{3,}\.{0,3}$'
+```
+

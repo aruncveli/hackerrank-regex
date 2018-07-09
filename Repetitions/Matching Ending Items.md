@@ -9,4 +9,7 @@ Write a RegEx to match a test string ***S***, under the following conditions:
 
 #### Solution
 
-`Regex_Pattern = r'^[a-zA-Z]*s$'`
+```python
+Regex_Pattern = r'^[a-zA-Z]*s$'
+```
+
