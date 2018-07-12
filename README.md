@@ -9,5 +9,10 @@ Reference solutions to the [Regex](https://www.hackerrank.com/domains/regex) dom
 * [Grouping and Capturing](Grouping%20and%20Capturing/)
 * [Backreferences](Backreferences/)
 * [Assertions](Assertions/)
+* [Applications](Applications/)
 
-Programming language used in this repository is Python 3. For Java, use "\\\\" instead of "\\" for escaping characters.
+Programming language used in this repository is Python 3, unless specified. 
+
+If you're referring this repo for Java, use "\\\\" instead of "\\" for escaping characters.
+
+For every question, there is a markdown file with the question and regex pattern solution, and a source code file.
